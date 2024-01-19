@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/df/39/2f/df392fb90619818047bf4f09e0adbc36.gif)](https://yash-soni7744.io)
+[![MasterHead](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2dnbjJlNDB2MzE4bHExbnE0MHo1aDZuOTh6eDI5cDc0Yjl4eGV5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oriOenWakvgewn6k8/giphy.gif)](https://yash-soni7744.io)
 
 <h1 align="center">Hi 👋, I'm Yash Wardhan</h1>
 <h3 align="center">A passionate UI/UX designer (primarily) from India. Crafting seamless experiences with a blend of pixels and code – Passionate UI/UX Designer & JavaScript Developer.</h3>
